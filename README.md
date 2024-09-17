@@ -1,7 +1,7 @@
 ## Hi there 👋 It's me Asgar George
 Aspiring Software Engineer | Computer enthusiast | 🗿
 <img align="right" width="370" height="290" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExdW81M2FzM2hkdDFleGMwcmFrMHdxeGNhbnkxYXA4bmVnaG5tYzlyNCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Dh5q0sShxgp13DwrvG/giphy.gif">
-                                            
+- 🔭 Here's my [portfolio](asgargeorge.online)                                                 
 - 🌱 I’m currently learning DSA
 - 👯 I’m looking to collaborate on solving real world problems
 - 🤔 I’m looking for Internship
