@@ -18,4 +18,4 @@ Aspiring Software Engineer | Computer enthusiast | 🗿
 
 
 
-![LeetCode Stats](https://leetcard.jacoblin.cool/asgarantony?theme=nord&font=Karla&ext=heatmap)
+![LeetCode Stats](https://leetcard.jacoblin.cool/asgarantony?theme=unicorn&font=IBM%20Plex%20Mono&ext=heatmap)
